@@ -39,7 +39,9 @@ Questions answers
     2. if I understand question right. Then we can make an endpoint where users can send data we will create celery worker to add data into database.  
     
 ### Part2:
-    make run go by this link http://localhost:8000/api-docs/ you will se the endpoint
+    $ make run 
+    
+    go by this link http://localhost:8000/api-docs/ you will se the endpoint
     
 Questions answers
 
