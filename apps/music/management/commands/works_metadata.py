@@ -3,8 +3,7 @@ import csv
 import operator
 from functools import reduce
 
-from django.db.models import Q, F, Value
-from django.db.models.functions import Concat
+from django.db.models import Q
 from django.conf import settings
 from django.core.management.base import BaseCommand
 
