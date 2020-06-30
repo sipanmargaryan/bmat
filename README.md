@@ -35,7 +35,7 @@ To run execute code.
     
 Questions answers
     
-    1. ISWC could be enough to identify	a work. If no ISWC is provided, title and at least one contributor should be the same. In case there are	different sets of contributors from different inputs, you could take the union of them.
+    1. ISWC could be enough to identify	a work. If no ISWC is provided, title and at least one contributor should be the same. In case there are different sets of contributors from different inputs, you could take the union of them.
     2. if I understand question right. Then we can make an endpoint where users can send data we will create celery worker to add data into database.  
     
 ### Part2:
